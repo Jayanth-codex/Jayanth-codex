@@ -31,7 +31,6 @@
 ## 📊 GitHub Stats
 
 ![Jayanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayanth-codex&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanth-codex&layout=compact&theme=tokyonight)
 
 ---
 
